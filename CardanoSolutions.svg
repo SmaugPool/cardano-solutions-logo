@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300mm"
+   height="300mm"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   sodipodi:docname="CardanoSolutions.svg"
+   inkscape:export-filename="CardanoSolutions.png"
+   inkscape:export-xdpi="173.39734"
+   inkscape:export-ydpi="173.39734"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#000000"
+     bordercolor="#000000"
+     borderopacity="0.44313725"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.57369285"
+     inkscape:cx="529.90028"
+     inkscape:cy="714.66814"
+     inkscape:window-width="1440"
+     inkscape:window-height="779"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:export-bgcolor="#000000ff" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient28"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#a4f4be;stop-opacity:1;"
+         offset="0"
+         id="stop28" />
+      <stop
+         style="stop-color:#5deb8c;stop-opacity:1;"
+         offset="0.31944445"
+         id="stop33" />
+      <stop
+         style="stop-color:#85c3e6;stop-opacity:1;"
+         offset="0.80000001"
+         id="stop34" />
+      <stop
+         style="stop-color:#d3e9fb;stop-opacity:1;"
+         offset="1"
+         id="stop29" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient28"
+       id="linearGradient33"
+       x1="65.90564"
+       y1="196.18617"
+       x2="215.04581"
+       y2="95.18483"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(8.1406994,3.6227073)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path10"
+       style="fill:url(#linearGradient33);fill-opacity:1;stroke:none;stroke-width:0.867;stroke-dasharray:none;stroke-opacity:1"
+       d="m 189.47588,82.159515 a 50,50 0 0 0 -21.58782,3.746025 50,50 0 0 0 -30.86582,46.19408 h 25.00002 a 25,25 0 0 1 15.43265,-23.0973 25,25 0 0 1 27.24485,5.41931 25,25 0 0 1 5.41931,27.24485 25,25 0 0 1 -23.09678,15.43265 v 25.00002 a 50,50 0 0 0 46.19408,-30.86581 50,50 0 0 0 -10.83862,-54.489185 50,50 0 0 0 -32.90187,-14.58464 z m -76.49817,35.741495 a 50,50 0 0 0 -46.194079,30.86581 50,50 0 0 0 10.838615,54.48918 50,50 0 0 0 54.489694,10.83862 50,50 0 0 0 30.86582,-46.19408 h -25.00002 a 25,25 0 0 1 -15.43265,23.0973 25,25 0 0 1 -27.244853,-5.41931 25,25 0 0 1 -5.419308,-27.24485 25,25 0 0 1 23.096781,-15.43265 z" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16.9333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:none;fill-opacity:1;stroke:none;stroke-width:0.867;stroke-dasharray:none;stroke-opacity:1"
+       x="143.96336"
+       y="158.75316"
+       id="text11"><tspan
+         sodipodi:role="line"
+         id="tspan11"
+         style="stroke-width:0.867"
+         x="143.96336"
+         y="158.75316">dd</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16.4413px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.841809;stroke-dasharray:none;stroke-opacity:1"
+       x="120.45609"
+       y="144.64618"
+       id="text12"
+       transform="scale(0.97094496,1.0299245)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.841809"
+         x="120.45609"
+         y="144.64618"
+         id="tspan13">CARDANO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:14.9001px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.762898;stroke-dasharray:none;stroke-opacity:1"
+       x="100.09618"
+       y="158.13754"
+       id="text25"
+       transform="scale(0.97094496,1.0299245)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#ffffff;fill-opacity:1;stroke-width:0.762898"
+         x="100.09618"
+         y="158.13754"
+         id="tspan25">SOLUTIONS</tspan></text>
+    <path
+       id="path35"
+       style="fill:#000000;fill-opacity:0.08;stroke:none;stroke-width:0.65025;stroke-dasharray:none;stroke-opacity:1"
+       d="M 112.9776 130.40083 A 37.499979 37.499979 0 0 0 78.33217 153.55032 A 37.499979 37.499979 0 0 0 86.461389 194.41707 A 37.499979 37.499979 0 0 0 127.32815 202.54629 A 37.499979 37.499979 0 0 0 150.47764 167.90086 L 137.97762 167.90086 A 25 25 0 0 1 122.54497 190.99764 A 25 25 0 0 1 95.300126 185.57834 A 25 25 0 0 1 89.880819 158.33349 A 25 25 0 0 1 112.9776 142.90084 L 112.9776 130.40083 z " />
+    <path
+       id="path40"
+       style="mix-blend-mode:normal;fill:#000000;fill-opacity:0.08;stroke:none;stroke-width:0.65025;stroke-dasharray:none;stroke-opacity:1"
+       d="m 187.02241,169.59913 a 37.499979,37.499979 0 0 0 34.64543,-23.14949 37.499979,37.499979 0 0 0 -8.12922,-40.86675 37.499979,37.499979 0 0 0 -40.86676,-8.129224 37.499979,37.499979 0 0 0 -23.14949,34.645434 h 12.50002 a 25,25 0 0 1 15.43265,-23.09678 25,25 0 0 1 27.24484,5.4193 25,25 0 0 1 5.41931,27.24485 25,25 0 0 1 -23.09678,15.43265 z" />
+  </g>
+</svg>
